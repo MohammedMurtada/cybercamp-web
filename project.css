@@ -1,0 +1,44 @@
+body{
+    background-image: url(project6.jpg);
+    background-size: fit;
+background-position: left;
+background-repeat: no-repeat;
+}
+
+.navbar{
+    padding: 15px;
+}
+.navbar a{
+    float: right;
+    color: blueviolet;
+    text-decoration: none;
+}
+column p{
+    font-size: 14px;
+}
+
+column{
+    color: red;
+    width: 400px;
+    padding-top: 150px;
+}
+
+.first{
+    font-size: 30px ;
+    text-transform:uppercase ;
+    color: red;
+    text-decoration: underline;
+    float: right;
+}
+.second{
+    padding: 30px;
+    margin-left: 120px;
+    color: red;
+    float: right;
+}
+.third{
+padding: 15px;
+margin-top: 20px;
+color: blue;
+float: right;
+}
